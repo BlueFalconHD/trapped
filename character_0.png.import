@@ -2,23 +2,24 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://csc8un372phqx"
-path="res://.godot/imported/Dreyar By M_1.png-48e1e61fd49931fa351ce5a28ffb4064.ctex"
+uid="uid://brpbsl0ahqfo0"
+path.s3tc="res://.godot/imported/character_0.png-2e3e5347e46c753aac1f9632ac0d47d2.s3tc.ctex"
 metadata={
-"vram_texture": false
+"imported_formats": ["s3tc_bptc"],
+"vram_texture": true
 }
 generator_parameters={
-"md5": "c95ce5fa110ed1e6cc46265f4e0bbc72"
+"md5": "83d535c933bfc39175969fb2e289da05"
 }
 
 [deps]
 
-source_file="res://Dreyar By M_1.png"
-dest_files=["res://.godot/imported/Dreyar By M_1.png-48e1e61fd49931fa351ce5a28ffb4064.ctex"]
+source_file="res://character_0.png"
+dest_files=["res://.godot/imported/character_0.png-2e3e5347e46c753aac1f9632ac0d47d2.s3tc.ctex"]
 
 [params]
 
-compress/mode=0
+compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
@@ -34,4 +35,4 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
-detect_3d/compress_to=1
+detect_3d/compress_to=0
